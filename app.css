@@ -1,0 +1,26 @@
+.block {
+    display: inline-block;
+    position: relative;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: .8em;
+    width: 2em;
+}
+
+.divblock {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#result {
+    margin: 0 auto;
+    text-align: center;
+}
+/* 
+.block:nth-child {
+    background: white;
+}
+
+.block:nth-child(even) {
+    background: white;
+} */
